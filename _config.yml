@@ -9,7 +9,7 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : GF's testy site 
-author : 
+author : A.B. Gules
   name : EAB
   email : abendguless@example.com
   github : abendgules
@@ -52,7 +52,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : 
+  BASE_PATH : abendgules.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]

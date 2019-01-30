@@ -1,8 +1,8 @@
 ---
 layout: page
-title: simple site
+title: GF pages of testing
 tagline: GF's testy pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+description: Trying out making GitHub Pages without Jekyll
 ---
 
 GF's test site of testyness.
