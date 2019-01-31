@@ -9,8 +9,8 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : GF's testy site 
-author : A.B. Gules
-  name : EAB
+author : 
+  name : A.B. Gules
   email : abendguless@example.com
   github : abendgules
   twitter : nil
